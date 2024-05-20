@@ -2,6 +2,8 @@
 
 Repositório destinado a conter o arquivo do nosso protótipo para a solução da Fórmula E.
 
+💻🗂️ | Protótipo: https://www.figma.com/design/UTclVtCvgZEVJNzm0JlPkM/Challenge?node-id=11%3A119&t=j1LJOEmvWadHyvuB-1
+
 <img src="https://github.com/Insider-E/FrontEnd-FigmaPrototype/blob/main/Images/prototype.png" alt="Minha Figura">
 
 ## O problema
