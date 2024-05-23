@@ -44,6 +44,8 @@ Na seção de Desempenho dos Pilotos, os usuários podem acompanhar de perto o d
 ### Estatísticas da Equipe
 A seção de Estatísticas da Equipe fornece dados aprofundados sobre o desempenho das equipes. Esta seção é ideal para os fãs que desejam entender melhor as estratégias e a performance geral de suas equipes favoritas.
 
+<img src="https://github.com/Insider-E/FrontEnd-FigmaPrototype/blob/main/Images/stats.png" alt="Estatísticas da Equipe">
+
 ## Integrantes:
 
 - David Murillo de Oliveira Soares (RM 559078)
@@ -51,7 +53,6 @@ A seção de Estatísticas da Equipe fornece dados aprofundados sobre o desempen
 - Yasmin Gonçalves Coelho (RM 559147)
 - Yasmin Naomi Minemoto (RM 559154)
 
-<img src="https://github.com/Insider-E/FrontEnd-FigmaPrototype/blob/main/Images/stats.png" alt="Estatísticas da Equipe">
 
 ---
 
